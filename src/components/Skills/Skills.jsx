@@ -2,7 +2,7 @@
 
 const Skills = () => {
     return (
-        <div id='skills' className='min-h-screen pt-20 text-white'>
+        <div id='skills' className='min-h-screen pt-10 text-white'>
              <h2 className="text-3xl font-bold uppercase text-center py-5 text-[#dbb878]">Skills I have</h2>
             <div className='grid grid-cols-3 gap-5 py-10'>
                 <div className=''>

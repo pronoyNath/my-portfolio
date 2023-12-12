@@ -32,7 +32,7 @@ const EmailContact = () => {
 
     return (
       
-        <div id='hireMe' className='text-white mt-20'>
+        <div id='hireMe' className='text-white mt-20 pt-10'>
             <h2 className="text-4xl font-bold  uppercase text-center text-[#dbb878]">Hire Me</h2>
             <div className="grid max-w-screen-xl grid-cols-1 gap-12 px-8 pt-10 pb-16 mx-auto rounded-lg md:grid-cols-2 md:px-12 lg:px-16 xl:px-32" >
 

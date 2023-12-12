@@ -2,7 +2,7 @@ import  './interests.css'
 
 const Interests = () => {
     return (
-        <section className=" dark:text-gray-100 mt-10">
+        <section className=" dark:text-gray-100 mt-10 pb-10">
            
             <div className="container p-6 mx-auto space-y-6 text-center lg:p-8 lg:space-y-8" >
                 <h2 className="text-3xl font-bold">Technologies I have worked with</h2>
