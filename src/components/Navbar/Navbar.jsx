@@ -3,6 +3,7 @@ import Banner from '../Banner/Banner';
 import Skills from '../Skills/Skills';
 import Button from '../Button/Button';
 import { FaArrowAltCircleRight } from 'react-icons/fa';
+import { Link } from 'react-router-dom';
 
 const Navbar = () => {
     return (
@@ -25,7 +26,7 @@ const Navbar = () => {
                         <li className='hover:border-b border-[#dbb878]'><a href='#banner'>Home</a></li>
                         <li className='hover:border-b border-[#dbb878]'><a href='#about'>About Me</a></li>
                         <li className='hover:border-b border-[#dbb878]'><a href='#skills'>Skills</a></li>
-                        <li className='hover:border-b border-[#dbb878]'><a href='#'>Contact</a></li>
+                        <li className='hover:border-b border-[#dbb878]'><a href='#contact'>Contact Me</a></li>
                     </ul>
                 </div>
                 <div className="navbar-end">
@@ -33,8 +34,10 @@ const Navbar = () => {
 			<span className="absolute bottom-0 right-0 w-3 h-3 dark:bg-green-600 border rounded-full dark:text-gray-100 dark:border-gray-900"></span>
 			<img src="https://i.ibb.co/ChmwFRM/kj.png" alt="" className="w-12 h-12 border rounded-full dark:bg-gray-500 dark:border-gray-700" />
 		</div>
+                    <a href='#hireMe'>
                     <button className="flex items-center gap-2 py-2 rounded-lg px-5 text-[#191919] border-none font-bold uppercase hover:bg-[#c49037] text-lg bg-[#dbb878]">hire me <FaArrowAltCircleRight className='animate-pulse' />
                     </button>
+                    </a>
                 </div>
             </div>
         </div>

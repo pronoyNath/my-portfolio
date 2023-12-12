@@ -73,15 +73,15 @@ const MyProjects = () => {
                     <div className="p-6 pt-0 space-y-5">
 
                         <div className="flex gap-5">
-                            <Link to={"https://github.com/pronoyNath/blood-donate-client"} target="_">
+                            <Link to={"https://github.com/pronoyNath/blood-donate-client"} target="_blank">
                                 <button className="flex items-center gap-2 py-2 rounded-lg px-5 text-[#191919] border-none font-bold uppercase hover:bg-[#c49037] text-sm bg-[#dbb878]">Client Side Code</button>
                             </Link>
-                            <Link to={"https://github.com/pronoyNath/blood-donation-server"} target="_">
+                            <Link to={"https://github.com/pronoyNath/blood-donation-server"} target="_blank">
                                 <button className="flex items-center gap-2 py-2 rounded-lg px-5 text-[#191919] border-none font-bold uppercase hover:bg-[#c49037] text-sm bg-[#dbb878]">Server Side Code</button>
                             </Link>
                         </div>
                         <div className="">
-                            <Link to={"https://blood-donate-347ce.web.app"} target="_">
+                            <Link to={"https://blood-donate-347ce.web.app"} target="_blank">
                                 <button className=" items-center gap-2 py-4 rounded-lg px-5 text-[#191919] border-none font-bold uppercase hover:bg-[#c49037] text-sm bg-[#dbb878] w-full inline-flex justify-center">Live Demo</button>
                             </Link>
                         </div>
@@ -144,15 +144,15 @@ const MyProjects = () => {
                     <div className="p-6 pt-0 space-y-5">
 
                         <div className="flex gap-5">
-                            <Link to={"https://github.com/pronoyNath/grand-hotel-client"} target="_">
+                            <Link to={"https://github.com/pronoyNath/grand-hotel-client"} target="_blank">
                                 <button className="flex items-center gap-2 py-2 rounded-lg px-5 text-[#191919] border-none font-bold uppercase hover:bg-[#c49037] text-sm bg-[#dbb878]">Client Side Code</button>
                             </Link>
-                            <Link to={"https://github.com/pronoyNath/grand-hotel-server"} target="_">
+                            <Link to={"https://github.com/pronoyNath/grand-hotel-server"} target="_blank">
                                 <button className="flex items-center gap-2 py-2 rounded-lg px-5 text-[#191919] border-none font-bold uppercase hover:bg-[#c49037] text-sm bg-[#dbb878]">Server Side Code</button>
                             </Link>
                         </div>
                         <div className="">
-                            <Link to={"https://grand-hotel-daa65.web.app/"} target="_">
+                            <Link to={"https://grand-hotel-daa65.web.app/"} target="_blank">
                                 <button className=" items-center gap-2 py-4 rounded-lg px-5 text-[#191919] border-none font-bold uppercase hover:bg-[#c49037] text-sm bg-[#dbb878] w-full inline-flex justify-center">Live Demo</button>
                             </Link>
                         </div>
@@ -213,15 +213,15 @@ const MyProjects = () => {
                     <div className="p-6 pt-0 space-y-5">
 
                         <div className="flex gap-5">
-                            <Link to={"https://github.com/pronoyNath/Taste-Master-Client"} target="_">
+                            <Link to={"https://github.com/pronoyNath/Taste-Master-Client"} target="_blank">
                                 <button className="flex items-center gap-2 py-2 rounded-lg px-5 text-[#191919] border-none font-bold uppercase hover:bg-[#c49037] text-sm bg-[#dbb878]">Client Side Code</button>
                             </Link>
-                            <Link to={"https://github.com/pronoyNath/Taste-Master-server"} target="_">
+                            <Link to={"https://github.com/pronoyNath/Taste-Master-server"} target="_blank">
                                 <button className="flex items-center gap-2 py-2 rounded-lg px-5 text-[#191919] border-none font-bold uppercase hover:bg-[#c49037] text-sm bg-[#dbb878]">Server Side Code</button>
                             </Link>
                         </div>
                         <div className="">
-                            <Link to={"https://tastemastershub.web.app/"} target="_">
+                            <Link to={"https://tastemastershub.web.app/"} target="_blank">
                                 <button className=" items-center gap-2 py-4 rounded-lg px-5 text-[#191919] border-none font-bold uppercase hover:bg-[#c49037] text-sm bg-[#dbb878] w-full inline-flex justify-center">Live Demo</button>
                             </Link>
                         </div>

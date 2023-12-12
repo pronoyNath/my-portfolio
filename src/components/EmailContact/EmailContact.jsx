@@ -32,8 +32,8 @@ const EmailContact = () => {
 
     return (
       
-        <div className='text-white mt-20'>
-            <h2 className="text-3xl font-bold uppercase text-center text-[#dbb878]">Contact Me</h2>
+        <div id='hireMe' className='text-white mt-20'>
+            <h2 className="text-4xl font-bold  uppercase text-center text-[#dbb878]">Hire Me</h2>
             <div className="grid max-w-screen-xl grid-cols-1 gap-12 px-8 pt-10 pb-16 mx-auto rounded-lg md:grid-cols-2 md:px-12 lg:px-16 xl:px-32" >
 
                 <div className="flex flex-col items-center justify-between" >
