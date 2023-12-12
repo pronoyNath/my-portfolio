@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "projectName": "Blood Donation",
+      "shortDescription": "This project is about donating blood.This apllication has 3 type of user role: admin, donor, volunteer. Each user based on their role has different work.",
+      "technologies": ["React", "Node.js", "MongoDB"],
+      "liveLink": "https://www.example.com/awesome-project",
+      "clientCode": "client_code_123",
+      "serverCode": "server_code_abc",
+      "img": [
+        "https://www.example.com/images/project1/image1.jpg",
+        "https://www.example.com/images/project1/image2.jpg",
+        "https://www.example.com/images/project1/image3.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "projectName": "Innovative App",
+      "shortDescription": "An innovative application showcasing creative solutions.",
+      "technologies": ["Angular", "Express", "PostgreSQL"],
+      "liveLink": "https://www.example.com/innovative-app",
+      "clientCode": "client_code_xyz",
+      "serverCode": "server_code_def",
+      "img": [
+        "https://www.example.com/images/project2/image1.jpg",
+        "https://www.example.com/images/project2/image2.jpg",
+        "https://www.example.com/images/project2/image3.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "projectName": "E-commerce Platform",
+      "shortDescription": "A scalable e-commerce platform with seamless user experience.",
+      "technologies": ["Vue.js", "Django", "MySQL"],
+      "liveLink": "https://www.example.com/e-commerce-platform",
+      "clientCode": "client_code_456",
+      "serverCode": "server_code_ghi",
+      "img": [
+        "https://www.example.com/images/project3/image1.jpg",
+        "https://www.example.com/images/project3/image2.jpg",
+        "https://www.example.com/images/project3/image3.jpg"
+      ]
+    }
+  ]
+  
