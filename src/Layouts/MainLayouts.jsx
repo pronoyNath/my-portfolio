@@ -9,7 +9,7 @@ import ContactMe from '../components/ContactMe/ContactMe';
 
 const MainLayouts = () => {
     return (
-        <div className='bg-[#050a20]'>
+        <div className='bg-[#050a20] overflow-x-hidden'>
             <div className='max-w-6xl mx-auto '>
                 {/* <div className="absolute top-0 w-full py-2"> */}
                 <Navbar></Navbar>

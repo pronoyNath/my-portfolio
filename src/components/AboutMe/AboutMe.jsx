@@ -6,11 +6,11 @@ const AboutMe = () => {
         <div id='about'>
     
             <div className="hero min-h-screen text-white">
-                <div className="flex flex-col lg:flex-row gap-20 items-center justify-center">
+                <div className="flex flex-col lg:flex-row lg:gap-20 items-center justify-center">
                 <div className='flex-1 w-96 '>
                 <Lottie animationData={aboutAnimation} className='-ml-10'></Lottie>
                 </div>
-                    <div className='flex-1 '>
+                    <div className='flex-1 px-5 lg:px-0'>
                         <h1 className="text-5xl font-bold uppercase text-[#dbb878]">About Me</h1>
                         <p className="py-6">Hello, I'm a MERN Stack Developer.Now,I'm focusing on front-end devlopment.I have been working with MERN technologies for the last 6 months with having knowledge about React.js,Node.js,Monogdb,ES6,Tailwindcss etc. I want to explore more about this technologies...</p>
                         <div className='space-y-2'>

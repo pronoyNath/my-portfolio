@@ -38,12 +38,12 @@ const EmailContact = () => {
 
                 <div className="flex flex-col items-center justify-between" >
                     <div className="space-y-2" >
-                        <h2 className="text-4xl font-bold leadi lg:text-5xl">Let's talk!</h2>
+                        <h2 className="text-4xl font-bold leadi text-center lg:text-left lg:text-5xl">Let's talk!</h2>
                         <div className="dark:text-gray-400" >What are you thinking? just say it.</div>
                     </div>
                     <Lottie animationData={contactAnimation}></Lottie>
                 </div>
-                <form ref={form} onSubmit={sendEmail} className="space-y-6 mt-7">
+                <form ref={form} onSubmit={sendEmail} className="space-y-6 ">
                     <div >
                         <label className="text-sm">Full name</label>
                         <input id="name" type="text" name="user_name"  placeholder="" className="w-full p-3 rounded dark:bg-gray-800" required/>
@@ -51,6 +51,10 @@ const EmailContact = () => {
                     <div >
                         <label className="text-sm">Email</label>
                         <input id="email" name="user_email" type="email" className="w-full p-3 rounded dark:bg-gray-800" required/>
+                    </div>
+                    <div >
+                        <label className="text-sm">Company Name</label>
+                        <input id="company" name="user_company" type="text" className="w-full p-3 rounded dark:bg-gray-800" required/>
                     </div>
                     <div >
                         <label className="text-sm">Message</label>
