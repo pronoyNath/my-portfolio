@@ -14,7 +14,7 @@ import { Navigation } from 'swiper/modules';
 
 const MyProjects = () => {
     return (
-        <div id="projects" className="pb-5 pt-20">
+        <div id="projects" className=" pt-20">
             <h2 className="text-3xl font-bold uppercase text-center text-[#dbb878] pb-20">Some of My Projects</h2>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10 mx-5 lg:mx-0">
                 <div className="relative flex w-full max-w-[26rem] flex-col rounded-xl bg-[#1c264f] bg-clip-border  text-white shadow-lg mx-auto">
