@@ -6,6 +6,7 @@ import AboutMe from '../components/AboutMe/AboutMe';
 import EmailContact from '../components/EmailContact/EmailContact';
 import MyProjects from '../components/MyProjects/MyProjects';
 import ContactMe from '../components/ContactMe/ContactMe';
+import Footer from '../components/Footer/Footer';
 
 const MainLayouts = () => {
     return (
@@ -22,6 +23,7 @@ const MainLayouts = () => {
             <EmailContact></EmailContact>
             </div>
             <ContactMe></ContactMe>
+            <Footer></Footer>
         </div>
     );
 };
