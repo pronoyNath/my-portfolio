@@ -13,7 +13,7 @@ const Banner = () => {
                         <p className="pb-6 text-3xl uppercase text-[#dbb878]">Anthokhiya Nath</p>
                         <h1 className="text-5xl font-bold">MERN STACK <span className='text-[#dbb878]'>DEVELOPER</span></h1>
                         <h1 className="text-xl font-normal mt-1">(Froendend Focused)</h1>
-                        <a href="https://drive.google.com/file/d/14G9wD7aKmDoTM5F3koKboIfnGx2PGC4r/view?usp=drive_link" target='_'>
+                        <a href="https://drive.google.com/file/d/1U6o3iwiiJ-cAFhuFiou93xCCTkMkk5si/view?usp=sharing" target='_'>
                         <button className=" py-2 rounded-lg mt-8 px-5 text-[#191919] border-none font-bold flex items-center gap-3 uppercase hover:bg-[#c49037] text-lg bg-[#dbb878] ">
                             
                             Resume <FaFileDownload className='text-xl animate-bounce' />

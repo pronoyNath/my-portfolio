@@ -60,7 +60,7 @@ const EmailContact = () => {
                         <label className="text-sm">Message</label>
                         <textarea name="message"  id="message" rows="3" className="w-full p-3 rounded dark:bg-gray-800" required></textarea>
                     </div>
-                    <button type="submit" className="w-full p-3 text-sm font-bold tracki uppercase rounded hover:bg-[#c49037] dark:bg-[#dbb878] dark:text-gray-900">Send Message</button>
+                    <button type="submit" className="w-full p-3 text-sm font-bold tracki uppercase rounded hover:bg-[#c49037] bg-[#dbb878] dark:text-gray-900">Send Message</button>
                 </form>
             </div>
         </div>
