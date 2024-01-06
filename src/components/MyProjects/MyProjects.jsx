@@ -152,7 +152,7 @@ const MyProjects = () => {
                             </Link>
                         </div>
                         <div className="">
-                            <Link to={"https://grand-hotel-daa65.web.app/"} target="_blank">
+                            <Link to={"https://grand-hotel-000.netlify.app/"} target="_blank">
                                 <button className=" items-center gap-2 py-4 rounded-lg px-5 text-[#191919] border-none font-bold uppercase hover:bg-[#c49037] text-sm bg-[#dbb878] w-full inline-flex justify-center">Live Demo</button>
                             </Link>
                         </div>
