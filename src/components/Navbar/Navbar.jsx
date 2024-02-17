@@ -19,21 +19,21 @@ const Navbar = () => {
                         </div>
                         <ul tabIndex={0} className="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow rounded-box w-52  bg-[#dbb878]">
 
-                        <li className='hover:border-b border-[#dbb878]'>
-                            <a onClick={() => scrollToSection('banner')}>Home</a>
-                        </li>
-                        <li className='hover:border-b border-[#dbb878]'>
-                            <a onClick={() => scrollToSection('about')}>About Me</a>
-                        </li>
-                        <li className='hover:border-b border-[#dbb878]'>
-                            <a onClick={() => scrollToSection('skills')}>Skills</a>
-                        </li>
-                        <li className='hover:border-b border-[#dbb878]'>
-                            <a onClick={() => scrollToSection('projects')}>Projects</a>
-                        </li>
-                        <li className='hover:border-b border-[#dbb878]'>
-                            <a onClick={() => scrollToSection('contact')}>Contact Me</a>
-                        </li>
+                            <li className='hover:border-b border-[#dbb878]'>
+                                <a onClick={() => scrollToSection('banner')}>Home</a>
+                            </li>
+                            <li className='hover:border-b border-[#dbb878]'>
+                                <a onClick={() => scrollToSection('about')}>About Me</a>
+                            </li>
+                            <li className='hover:border-b border-[#dbb878]'>
+                                <a onClick={() => scrollToSection('skills')}>Skills</a>
+                            </li>
+                            <li className='hover:border-b border-[#dbb878]'>
+                                <a onClick={() => scrollToSection('projects')}>Projects</a>
+                            </li>
+                            <li className='hover:border-b border-[#dbb878]'>
+                                <a onClick={() => scrollToSection('contact')}>Contact Me</a>
+                            </li>
                         </ul>
                     </div>
                     <a className="btn btn-ghost text-sm md:text-xl uppercase text-[#dbb878]">Anthokhya Nath</a>
@@ -59,8 +59,8 @@ const Navbar = () => {
                 </div>
                 <div className="navbar-end">
                     <div className="relative flex-shrink-0 mr-5 hidden md:block" >
-                        <span className="absolute bottom-0 right-0 w-3 h-3 dark:bg-green-600 border rounded-full dark:text-gray-100 dark:border-gray-900"></span>
-                        <img src="https://i.ibb.co/ChmwFRM/kj.png" alt="" className="w-12 h-12 border rounded-full dark:bg-gray-500 dark:border-gray-700" />
+                        <span className="absolute bottom-0 right-0 w-3 h-3 bg-green-600 border rounded-full text-gray-100 border-gray-900"></span>
+                        <img src="https://i.ibb.co/ChmwFRM/kj.png" alt="" className="w-12 h-12 border rounded-full bg-gray-500 border-gray-700" />
                     </div>
                     <a onClick={() => scrollToSection('hireMe')}>
                         <button className="flex items-center gap-2 py-2 rounded-lg px-5 text-[#191919] border-none font-bold uppercase hover:bg-[#c49037] text-lg bg-[#dbb878]">hire me <FaArrowAltCircleRight className='animate-pulse' />
