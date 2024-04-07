@@ -18,7 +18,7 @@ const Banner = () => {
             <div className="hero min-h-screen">
                 <div className="hero-content w-full flex-col lg:gap-10 lg:flex-row-reverse justify-between">
                     <div>
-                        <img src="https://i.ibb.co/Pjstypz/Whats-App-Image-2023-11-19-at-4-10-14-PM-1-1.png" className="max-w-sm rounded-lg shadow-2xl" />
+                    <img src="https://i.ibb.co/Pjstypz/Whats-App-Image-2023-11-19-at-4-10-14-PM-1-1.png" className="max-w-sm rounded-lg shadow-2xl" />
                     </div>
                     <div className='text-white '>
                         <p className="text-xl uppercase ">Hello, I'm
@@ -28,7 +28,7 @@ const Banner = () => {
                         <h1 className="text-5xl font-bold ">MERN STACK  <span className='text-[#dbb878] block md:inline-flex'>{text}<Cursor cursorStyle='_' /></span></h1>
 
                         <h1 className="text-xl font-normal mt-1">(Froendend Focused)</h1>
-                        <a href="https://drive.google.com/file/d/1U6o3iwiiJ-cAFhuFiou93xCCTkMkk5si/view?usp=sharing" target='_'>
+                        <a href="https://drive.google.com/file/d/1mRcVMLeHnsrYod3HUP6p6DEWfeGbyn59/view?usp=sharing" target='_'>
                             <button className=" py-2 rounded-lg mt-8 px-5 text-[#191919] border-none font-bold flex items-center gap-3 uppercase hover:bg-[#c49037] text-lg bg-[#dbb878] ">
 
                                 Resume <FaFileDownload className='text-xl animate-bounce' />
