@@ -27,8 +27,8 @@ const Banner = () => {
                         <p className="pb-6 text-3xl uppercase text-[#dbb878]">Anthokhiya Nath</p>
                         <h1 className="text-5xl font-bold ">MERN STACK  <span className='text-[#dbb878] block md:inline-flex'>{text}<Cursor cursorStyle='_' /></span></h1>
 
-                        <h1 className="text-xl font-normal mt-1">(Froendend Focused)</h1>
-                        <a href="https://drive.google.com/file/d/1mRcVMLeHnsrYod3HUP6p6DEWfeGbyn59/view?usp=sharing" target='_'>
+                        <h1 className="text-xl font-normal mt-1">(Frontend Focused)</h1>
+                        <a href="https://drive.google.com/file/d/1cDOOCSAeTPKB66yNBNiTdogfr4n6NQJn/view?usp=drive_link" target='_'>
                             <button className=" py-2 rounded-lg mt-8 px-5 text-[#191919] border-none font-bold flex items-center gap-3 uppercase hover:bg-[#c49037] text-lg bg-[#dbb878] ">
 
                                 Resume <FaFileDownload className='text-xl animate-bounce' />

@@ -20,7 +20,7 @@ const AboutMe = () => {
                         <h2 className='font-bold text-lg uppercase'><span className='uppercase text-[#dbb878]'>PHONE: </span>+880 1568-193969</h2>
                         <h2 className='font-bold text-lg '><span className='uppercase text-[#dbb878]'>E-MAIL: </span>pronoynath890@gmail.com</h2>
                         <h2 className='font-bold text-lg uppercase'><span className='uppercase text-[#dbb878]'>Languages: </span>English,Bangla,Hindi,Urdu</h2>
-                        <h2 className='font-bold text-lg uppercase'><span className='uppercase text-[#dbb878]'>Education: </span>computer science & engineering <br /> (3rd year)</h2>
+                        <h2 className='font-bold text-lg uppercase'><span className='uppercase text-[#dbb878]'>Education: </span>computer science & engineering </h2>
                         </div>
                     </div>
                 </div>

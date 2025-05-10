@@ -17,8 +17,8 @@ const Skills = () => {
                         <p className='text-[11px]'>React Router</p>
                     </div>
                     <div className="py-4 px-5 w-28 h-28 border-[#dbb878] flex flex-col justify-center items-center border rounded-full bg-[#1c264f] hover:animate-bounce">
-                        <img src="https://i.ibb.co/FBRkDTs/es6.jpg" alt=""  className='rounded w-[40px] h-[40px]'/>
-                        <p>ES6</p>
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV9uzErWz9EXqZDxZ5lP9aYpMz8eK6rr5X3w&s" alt=""  className='rounded w-[40px] h-[40px]'/>
+                        <p>Next Js</p>
                     </div>
                     <div className="py-4 px-5 w-28 h-28 border-[#dbb878] flex flex-col justify-center items-center border rounded-full bg-[#1c264f] hover:animate-bounce">
                         <img src="https://i.ibb.co/zscH6dZ/js.png" alt=""  className='w-[40px] h-[40px]'/>
